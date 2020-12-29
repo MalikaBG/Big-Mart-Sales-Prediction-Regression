@@ -33,7 +33,8 @@ Item_Outlet_Sales | Sales of the product in the particulat store. This is the ou
 <li>Random Forest
 <li>Extra Tress
   
-  
+**Mean Squared Error:** 0.28
+
  # Libraries
 
 <li>matplotlib
@@ -42,5 +43,5 @@ Item_Outlet_Sales | Sales of the product in the particulat store. This is the ou
 <li>seaborn
 
 
-**Mean Squared Error:** 0.28
+
 
