@@ -23,3 +23,13 @@ Outlet_Location_Type | The type of city in which the store is located
 Outlet_Type | Whether the outlet is just a grocery store or some sort of supermarket
 Item_Outlet_Sales | Sales of the product in the particulat store. This is the outcome variable to be predicted.
 
+
+# Algorithms
+
+<li>Linear Regression
+<li>Ridge
+<li>Lasso
+<li>Decision Tree
+<li>Random Forest
+<li>Extra Tress
+  
