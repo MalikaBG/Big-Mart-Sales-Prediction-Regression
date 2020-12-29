@@ -33,3 +33,12 @@ Item_Outlet_Sales | Sales of the product in the particulat store. This is the ou
 <li>Random Forest
 <li>Extra Tress
   
+  
+ # Libraries
+
+<li>matplotlib
+<li>pandas
+<li>scikit-learn
+<li>seaborn
+
+
