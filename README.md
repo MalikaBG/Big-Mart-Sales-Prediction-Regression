@@ -42,3 +42,5 @@ Item_Outlet_Sales | Sales of the product in the particulat store. This is the ou
 <li>seaborn
 
 
+**Mean Squared Error:** 0.28
+
